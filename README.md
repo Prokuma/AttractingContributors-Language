@@ -32,3 +32,21 @@ Please write the lanauges that you want to learn (Please write natural language 
 - Mongolian
 - Persian
 - Hindi
+
+# Contiributors
+- raux
+- Kudo-Takuto
+- Kuwahara-tkm
+- fujiwaraka
+- ykawabata17
+- eunike321
+- ikenaga530
+- marine-blue
+- ALORAMFER
+- chariot-524
+- zihang-wang-naist
+- WEI44ZHEYUAN
+- MinoruIshihara
+- Brafuma
+- UA049
+- Prokuma(me)
